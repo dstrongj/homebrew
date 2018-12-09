@@ -1,0 +1,7 @@
+
+
+Add new .cow files to the cow files in /usr/share/cowsay/cows
+
+mv /Users/YOURMACHINE/desktop/cows/* /usr/local/share/cows/
+
+
